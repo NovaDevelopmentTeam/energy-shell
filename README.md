@@ -2,7 +2,7 @@
 
 **Author**: [Jonas Gries, Nova Dev Team]  
 **Date**: June 2025  
-**License**: MIT (choose one)
+**License**: MIT
 
 ---
 
