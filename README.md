@@ -1,6 +1,6 @@
 # The Energy Shell Motion Theory
 
-**Author**: [Your Name or Username]  
+**Author**: [Jonas Gries, Nova Dev Team]  
 **Date**: June 2025  
 **License**: CC BY 4.0 / MIT (choose one)
 
@@ -75,4 +75,4 @@ The **Energy Shell Motion Theory** isn’t meant to replace Newtonian mechanics 
 
 ## 📎 Optional: Citation (APA-style)
 
-Gries, [Your Name]. (2025). *Energy Shell Motion Theory*. GitHub. https://github.com/[your-profile]/[your-repo]
+Gries, [Jonas]. (2025). *Energy Shell Motion Theory*. GitHub. https://github.com/[NovaDevelopmentTeam]/[energy-shell]
